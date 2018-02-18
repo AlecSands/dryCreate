@@ -1,0 +1,22 @@
+{
+  "name": "drycreate",
+  "version": "1.0.0",
+  "description": "Same as create but with drier logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlecSands/dryCreate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlecSands/dryCreate/issues"
+  },
+  "homepage": "https://github.com/AlecSands/dryCreate#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
+}
